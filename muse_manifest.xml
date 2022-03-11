@@ -1,0 +1,113 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kcinnovation.com" resolutions="1x" timestamp="1647022704207">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="timeline.css" crc="400291673" ref="timeline"/>
+    <file name="index.css" crc="419763009" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:timeline"/>
+    <file name="museutils.js" crc="3939489907" ref="index:timeline"/>
+    <file name="whatinput.js" crc="86476730" ref="index:timeline"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:timeline"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:timeline"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index:timeline"/>
+    <file name="webpro.js" crc="3856315280" ref="timeline"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="timeline"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="timeline"/>
+    <file name="touchswipe.js" crc="3888935200" ref="timeline"/>
+  </folder>
+  <folder name="images">
+    <file name="image_1.svg" crc="4247930254" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="image_1_poster_.png" crc="471370680" ref="index"/>
+    <file name="downarrow_1.svg" crc="3891136452" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="downarrow_1_poster_.png" crc="4198277398" ref="index"/>
+    <file name="u242-6.png" crc="3890335178" ref="index"/>
+    <file name="div_1.svg" crc="21141844" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="div_1_poster_.png" crc="3886070446" ref="index"/>
+    <file name="u261-4.png" crc="503783485" ref="index"/>
+    <file name="home_1.svg" crc="3848613069" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="home_1_poster_.png" crc="3883872514" ref="index"/>
+    <file name="u293-4.png" crc="3766497954" ref="index"/>
+    <file name="div_2.svg" crc="3807890748" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="div_2_poster_.png" crc="108189714" ref="index"/>
+    <file name="u332-4.png" crc="4215751473" ref="index"/>
+    <file name="image_2.svg" crc="4043267470" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="image_2_poster_.png" crc="301885575" ref="index"/>
+    <file name="image_3.svg" crc="53053" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="image_3_poster_.png" crc="242066769" ref="index"/>
+    <file name="image_4.svg" crc="3958746074" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="image_4_poster_.png" crc="3842670462" ref="index"/>
+    <file name="u482-4.png" crc="31235583" ref="index"/>
+    <file name="u515-4.png" crc="3787570896" ref="index"/>
+    <file name="u548-4.png" crc="3794651455" ref="index"/>
+    <file name="u542-4.png" crc="3787570896" ref="index"/>
+    <file name="u488-4.png" crc="340244716" ref="index"/>
+    <file name="u494-4.png" crc="3999368256" ref="index"/>
+    <file name="u521-4.png" crc="3787570896" ref="index"/>
+    <file name="u539-4.png" crc="3787570896" ref="index"/>
+    <file name="u551-4.png" crc="520628867" ref="index"/>
+    <file name="u545-4.png" crc="3787570896" ref="index"/>
+    <file name="gradientarc.png" crc="265721190" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="main" alt=""/>
+    </file>
+    <file name="u323-7.png" crc="4270770094" ref="index"/>
+    <file name="u376-7.png" crc="3797058143" ref="index"/>
+    <file name="u385-4.png" crc="4129508917" ref="index"/>
+    <file name="u329-4.png" crc="160067059" ref="index"/>
+    <file name="u299-4.png" crc="432610930" ref="index"/>
+    <file name="u305-4.png" crc="189263453" ref="index"/>
+    <file name="u320-4.png" crc="4039893976" ref="index"/>
+    <file name="u379-4.png" crc="424485984" ref="index"/>
+    <file name="u338-7.png" crc="140444204" ref="index"/>
+    <file name="u335-4.png" crc="120364980" ref="index"/>
+    <file name="cactus.jpg" crc="491424337" seo="true" ref="timeline">
+      <caption webpage="timeline" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="timeline"/>
+    <file name="road.jpg" crc="180693847" seo="true" ref="timeline">
+      <caption webpage="timeline" alt=""/>
+    </file>
+    <file name="trees.jpg" crc="4071309946" seo="true" ref="timeline">
+      <caption webpage="timeline" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="timeline"/>
+  </folder>
+  <file name="index.html" crc="453064011" seo="true" mt="1647022679212" redirect="true"/>
+  <file name="timeline.html" crc="4269637715" seo="true" mt="1647019305310" redirect="true"/>
+</manifest>
