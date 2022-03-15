@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kcinnovation.com" resolutions="1x" timestamp="1647355304565">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kcinnovation.com" resolutions="1x" timestamp="1647372140274">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="461375517" ref="index"/>
+    <file name="index.css" crc="17880487" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -34,7 +34,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="div_2_poster_.png" crc="108189714" ref="index"/>
-    <file name="u332-4.png" crc="4215751473" ref="index"/>
     <file name="image_3.svg" crc="53053" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -51,36 +50,13 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="image_4_poster_.png" crc="3842670462" ref="index"/>
-    <file name="u482-4.png" crc="31235583" ref="index"/>
-    <file name="u515-4.png" crc="3787570896" ref="index"/>
-    <file name="u548-4.png" crc="3794651455" ref="index"/>
-    <file name="u542-4.png" crc="3787570896" ref="index"/>
-    <file name="u488-4.png" crc="340244716" ref="index"/>
-    <file name="u494-4.png" crc="3999368256" ref="index"/>
-    <file name="u521-4.png" crc="3787570896" ref="index"/>
-    <file name="u539-4.png" crc="3787570896" ref="index"/>
-    <file name="u551-4.png" crc="520628867" ref="index"/>
-    <file name="u545-4.png" crc="3787570896" ref="index"/>
     <file name="gradientarc.png" crc="265721190" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u323-7.png" crc="4270770094" ref="index"/>
-    <file name="u376-7.png" crc="3797058143" ref="index"/>
-    <file name="u385-4.png" crc="4129508917" ref="index"/>
-    <file name="u329-4.png" crc="160067059" ref="index"/>
-    <file name="u293-4.png" crc="3766497954" ref="index"/>
-    <file name="u299-4.png" crc="432610930" ref="index"/>
-    <file name="u305-4.png" crc="189263453" ref="index"/>
-    <file name="u320-4.png" crc="4039893976" ref="index"/>
-    <file name="u379-4.png" crc="424485984" ref="index"/>
-    <file name="u242-6.png" crc="3890335178" ref="index"/>
-    <file name="u261-4.png" crc="503783485" ref="index"/>
-    <file name="u338-7.png" crc="140444204" ref="index"/>
-    <file name="u335-4.png" crc="120364980" ref="index"/>
     <file name="home_1.svg" crc="3848613069" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="home_1_poster_.png" crc="3883872514" ref="index"/>
   </folder>
-  <file name="index.html" crc="43996306" seo="true" mt="1647354650429" redirect="true"/>
+  <file name="index.html" crc="41214164" seo="true" mt="1647371813756" redirect="true"/>
 </manifest>
