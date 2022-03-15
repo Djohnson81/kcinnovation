@@ -1,21 +1,16 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kcinnovation.com" resolutions="1x" timestamp="1647349523147">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kcinnovation.com" resolutions="1x" timestamp="1647355304565">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="timeline.css" crc="400291673" ref="timeline"/>
-    <file name="index.css" crc="220730291" ref="index"/>
+    <file name="index.css" crc="461375517" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:timeline"/>
-    <file name="museutils.js" crc="3939489907" ref="index:timeline"/>
-    <file name="whatinput.js" crc="86476730" ref="index:timeline"/>
-    <file name="museconfig.js" crc="3936894949" ref="index:timeline"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:timeline"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
-    <file name="require.js" crc="4177726516" ref="index:timeline"/>
-    <file name="webpro.js" crc="3856315280" ref="timeline"/>
-    <file name="musewpslideshow.js" crc="244150766" ref="timeline"/>
-    <file name="jquery.museoverlay.js" crc="3877667098" ref="timeline"/>
-    <file name="touchswipe.js" crc="3888935200" ref="timeline"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
   </folder>
   <folder name="images">
     <file name="image_1.svg" crc="4247930254" seo="true" ref="index">
@@ -40,14 +35,18 @@
     </file>
     <file name="div_2_poster_.png" crc="108189714" ref="index"/>
     <file name="u332-4.png" crc="4215751473" ref="index"/>
-    <file name="image_2.svg" crc="4043267470" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="image_2_poster_.png" crc="301885575" ref="index"/>
     <file name="image_3.svg" crc="53053" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="image_3_poster_.png" crc="242066769" ref="index"/>
+    <file name="gradient1.png" crc="153337191" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image_2.svg" crc="4043267470" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image_2_poster_.png" crc="301885575" ref="index"/>
     <file name="image_4.svg" crc="3958746074" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -82,18 +81,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="home_1_poster_.png" crc="3883872514" ref="index"/>
-    <file name="cactus.jpg" crc="491424337" seo="true" ref="timeline">
-      <caption webpage="timeline" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="timeline"/>
-    <file name="road.jpg" crc="180693847" seo="true" ref="timeline">
-      <caption webpage="timeline" alt=""/>
-    </file>
-    <file name="trees.jpg" crc="4071309946" seo="true" ref="timeline">
-      <caption webpage="timeline" alt=""/>
-    </file>
-    <file name="loading.gif" crc="3815509949" ref="timeline"/>
   </folder>
-  <file name="index.html" crc="220806077" seo="true" mt="1647287576290" redirect="true"/>
-  <file name="timeline.html" crc="4269637715" seo="true" mt="1647019305310" redirect="true"/>
+  <file name="index.html" crc="43996306" seo="true" mt="1647354650429" redirect="true"/>
 </manifest>

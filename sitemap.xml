@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://kcinnovation.com/index.html</loc>
-    <lastmod>2022-03-14</lastmod>
+    <lastmod>2022-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -18,10 +18,13 @@
       <image:loc>http://kcinnovation.com/images/div_2.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kcinnovation.com/images/image_2.svg</image:loc>
+      <image:loc>http://kcinnovation.com/images/image_3.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kcinnovation.com/images/image_3.svg</image:loc>
+      <image:loc>http://kcinnovation.com/images/gradient1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcinnovation.com/images/image_2.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://kcinnovation.com/images/image_4.svg</image:loc>
@@ -31,21 +34,6 @@
     </image:image>
     <image:image>
       <image:loc>http://kcinnovation.com/images/home_1.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://kcinnovation.com/timeline.html</loc>
-    <lastmod>2022-03-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://kcinnovation.com/images/cactus.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kcinnovation.com/images/road.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://kcinnovation.com/images/trees.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
