@@ -1,39 +1,177 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://kcinnovation.com/index.html</loc>
-    <lastmod>2022-03-15</lastmod>
+    <loc>http://kcsite.com/index.html</loc>
+    <lastmod>2022-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://kcinnovation.com/images/image_1.svg</image:loc>
+      <image:loc>http://kcsite.com/images/c1chapbkg.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kcinnovation.com/images/downarrow_1.svg</image:loc>
+      <image:loc>http://kcsite.com/images/leftarrow.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kcinnovation.com/images/div_1.svg</image:loc>
+      <image:loc>http://kcsite.com/images/ornament1.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kcinnovation.com/images/div_2.svg</image:loc>
+      <image:loc>http://kcsite.com/images/rightarrow.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://kcsite.com/chapter-1.html</loc>
+    <lastmod>2022-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://kcsite.com/images/downarrow_1.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kcinnovation.com/images/image_3.svg</image:loc>
+      <image:loc>http://kcsite.com/images/c1img1.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kcinnovation.com/images/gradient1.png</image:loc>
+      <image:loc>http://kcsite.com/images/c1img2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kcinnovation.com/images/image_2.svg</image:loc>
+      <image:loc>http://kcsite.com/images/lineitem2.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kcinnovation.com/images/image_4.svg</image:loc>
+      <image:loc>http://kcsite.com/images/lineitem1.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kcinnovation.com/images/gradientarc.png</image:loc>
+      <image:loc>http://kcsite.com/images/gradient1.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kcinnovation.com/images/home_1.svg</image:loc>
+      <image:loc>http://kcsite.com/images/c1img3.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/c1img4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/c1img5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/c1img6.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/div_1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/swipegesture.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/home_1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/startover.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://kcsite.com/chapter-2.html</loc>
+    <lastmod>2022-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://kcsite.com/images/downarrow_1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/gradient1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/div_1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/home_1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/startover.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/c2img1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/c2gradient1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/gradientarc.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/c2img2.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://kcsite.com/chapter-3.html</loc>
+    <lastmod>2022-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://kcsite.com/images/downarrow_1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/gradient1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/div_1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/home_1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/startover.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/c3img1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/c3img2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/downarrowwhite.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/div_2.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://kcsite.com/pastslide2.html</loc>
+    <lastmod>2022-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://kcsite.com/images/leftarrow.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/ornament1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/rightarrow.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/c2chapbkg.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://kcsite.com/pastslide3.html</loc>
+    <lastmod>2022-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://kcsite.com/images/leftarrow.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/ornament1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/rightarrow.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kcsite.com/images/c3chapbkg.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://kcsite.com/assets/lf20_irlebvxf.json</loc>
+    <lastmod>2022-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

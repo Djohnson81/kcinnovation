@@ -1,62 +1,155 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kcinnovation.com" resolutions="1x" timestamp="1647373358183">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kcsite.com" resolutions="1x" timestamp="1649868014457">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4190581737" ref="index"/>
+    <file name="index.css" crc="4132174878" ref="index"/>
+    <file name="chapter-1.css" crc="238601441" ref="chapter-1"/>
+    <file name="pastslide3.css" crc="3912130179" ref="pastslide3"/>
+    <file name="chapter-3.css" crc="186295026" ref="chapter-3"/>
+    <file name="pastslide2.css" crc="128451981" ref="pastslide2"/>
+    <file name="chapter-2.css" crc="4178446196" ref="chapter-2"/>
+  </folder>
+  <folder name="fonts">
+    <file name="gilroy-regular.woff" crc="258231484"/>
+    <file name="gilroy-regular.eot" crc="434654544"/>
+    <file name="gilroy-bold.woff" crc="3996116954"/>
+    <file name="gilroy-bold.eot" crc="3947652581"/>
+  </folder>
+  <folder name="assets">
+    <file name="lf20_irlebvxf.json" crc="259555682" seo="true" mt="1649864266000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3939489907" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="3936894949" ref="index"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
-    <file name="require.js" crc="4177726516" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="chapter-1:chapter-2:chapter-3:index:pastslide2:pastslide3"/>
+    <file name="museutils.js" crc="3939489907" ref="chapter-1:chapter-2:chapter-3:index:pastslide2:pastslide3"/>
+    <file name="whatinput.js" crc="86476730" ref="chapter-1:chapter-2:chapter-3:index:pastslide2:pastslide3"/>
+    <file name="museconfig.js" crc="3936894949" ref="chapter-1:chapter-2:chapter-3:index:pastslide2:pastslide3"/>
+    <file name="jquery.watch.js" crc="522499760" ref="chapter-1:chapter-2:chapter-3:index:pastslide2:pastslide3"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="chapter-1:chapter-2:chapter-3"/>
+    <file name="require.js" crc="4177726516" ref="chapter-1:chapter-2:chapter-3:index:pastslide2:pastslide3"/>
   </folder>
   <folder name="images">
-    <file name="image_1.svg" crc="4247930254" seo="true" ref="index">
+    <file name="downarrow_1.svg" crc="3891136452" seo="true" ref="chapter-1:chapter-2:chapter-3">
+      <caption webpage="chapter-3" alt=""/>
+      <caption webpage="chapter-3" alt=""/>
+      <caption webpage="chapter-2" alt=""/>
+      <caption webpage="chapter-2" alt=""/>
+      <caption webpage="chapter-2" alt=""/>
+      <caption webpage="chapter-2" alt=""/>
+      <caption webpage="chapter-1" alt=""/>
+      <caption webpage="chapter-1" alt=""/>
+      <caption webpage="chapter-1" alt=""/>
+    </file>
+    <file name="downarrow_1_poster_.png" crc="4198277398" ref="chapter-1"/>
+    <file name="c1img1.png" crc="179080183" seo="true" ref="chapter-1">
+      <caption webpage="chapter-1" alt=""/>
+    </file>
+    <file name="c1img2.png" crc="4201284956" seo="true" ref="chapter-1">
+      <caption webpage="chapter-1" alt=""/>
+    </file>
+    <file name="lineitem2.svg" crc="4228746523" seo="true" ref="chapter-1">
+      <caption webpage="chapter-1" alt=""/>
+    </file>
+    <file name="lineitem2_poster_.png" crc="273228301" ref="chapter-1"/>
+    <file name="lineitem1.svg" crc="4121949572" seo="true" ref="chapter-1">
+      <caption webpage="chapter-1" alt=""/>
+    </file>
+    <file name="lineitem1_poster_.png" crc="4019318133" ref="chapter-1"/>
+    <file name="gradient1.png" crc="153337191" seo="true" ref="chapter-1:chapter-2:chapter-3">
+      <caption webpage="chapter-3" alt=""/>
+      <caption webpage="chapter-2" alt=""/>
+      <caption webpage="chapter-1" alt=""/>
+    </file>
+    <file name="c1img3.png" crc="291700067" seo="true" ref="chapter-1">
+      <caption webpage="chapter-1" alt=""/>
+    </file>
+    <file name="c1img4.png" crc="153289242" seo="true" ref="chapter-1">
+      <caption webpage="chapter-1" alt=""/>
+    </file>
+    <file name="c1img5.png" crc="113219755" seo="true" ref="chapter-1">
+      <caption webpage="chapter-1" alt=""/>
+    </file>
+    <file name="c1img6.png" crc="3956044558" seo="true" ref="chapter-1">
+      <caption webpage="chapter-1" alt=""/>
+    </file>
+    <file name="div_1.svg" crc="21141844" seo="true" ref="chapter-1:chapter-2:chapter-3">
+      <caption webpage="chapter-3" alt=""/>
+      <caption webpage="chapter-2" alt=""/>
+      <caption webpage="chapter-1" alt=""/>
+    </file>
+    <file name="div_1_poster_.png" crc="3886070446" ref="chapter-1"/>
+    <file name="swipegesture.gif" crc="89962696" seo="true" ref="chapter-1">
+      <caption webpage="chapter-1" alt=""/>
+    </file>
+    <file name="home_1.svg" crc="3848613069" seo="true" ref="chapter-1:chapter-2:chapter-3">
+      <caption webpage="chapter-3" alt=""/>
+      <caption webpage="chapter-2" alt=""/>
+      <caption webpage="chapter-1" alt=""/>
+    </file>
+    <file name="home_1_poster_.png" crc="3883872514" ref="chapter-1"/>
+    <file name="startover.svg" crc="4177767894" seo="true" ref="chapter-1:chapter-2:chapter-3">
+      <caption webpage="chapter-3" alt=""/>
+      <caption webpage="chapter-2" alt=""/>
+      <caption webpage="chapter-1" alt=""/>
+    </file>
+    <file name="startover_poster_.png" crc="405226080" ref="chapter-1"/>
+    <file name="c2img1.png" crc="4227541884" seo="true" ref="chapter-2">
+      <caption webpage="chapter-2" alt=""/>
+    </file>
+    <file name="c2gradient1.svg" crc="324309820" seo="true" ref="chapter-2">
+      <caption webpage="chapter-2" alt=""/>
+    </file>
+    <file name="c2gradient1_poster_.png" crc="165348661" ref="chapter-2"/>
+    <file name="gradientarc.png" crc="265721190" seo="true" ref="chapter-2">
+      <caption webpage="chapter-2" alt=""/>
+    </file>
+    <file name="c2img2.png" crc="158104778" seo="true" ref="chapter-2">
+      <caption webpage="chapter-2" alt=""/>
+    </file>
+    <file name="c3img1.png" crc="3777729537" seo="true" ref="chapter-3">
+      <caption webpage="chapter-3" alt=""/>
+    </file>
+    <file name="c3img2.png" crc="525699990" seo="true" ref="chapter-3">
+      <caption webpage="chapter-3" alt=""/>
+    </file>
+    <file name="downarrowwhite.svg" crc="4105605672" seo="true" ref="chapter-3">
+      <caption webpage="chapter-3" alt=""/>
+    </file>
+    <file name="downarrowwhite_poster_.png" crc="4214813692" ref="chapter-3"/>
+    <file name="div_2.svg" crc="3807890748" seo="true" ref="chapter-3">
+      <caption webpage="chapter-3" alt=""/>
+    </file>
+    <file name="div_2_poster_.png" crc="353837208" ref="chapter-3"/>
+    <file name="c1chapbkg.png" crc="4188384897" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="image_1_poster_.png" crc="471370680" ref="index"/>
-    <file name="downarrow_1.svg" crc="3891136452" seo="true" ref="index">
+    <file name="leftarrow.svg" crc="145963184" seo="true" ref="index:pastslide2:pastslide3">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="pastslide2" alt=""/>
+      <caption webpage="pastslide3" alt=""/>
     </file>
-    <file name="downarrow_1_poster_.png" crc="4198277398" ref="index"/>
-    <file name="div_1.svg" crc="21141844" seo="true" ref="index">
+    <file name="leftarrow_poster_.png" crc="3942211015" ref="index"/>
+    <file name="ornament1.svg" crc="4006536597" seo="true" ref="index:pastslide2:pastslide3">
       <caption webpage="index" alt=""/>
+      <caption webpage="pastslide2" alt=""/>
+      <caption webpage="pastslide3" alt=""/>
     </file>
-    <file name="div_1_poster_.png" crc="3886070446" ref="index"/>
-    <file name="div_2.svg" crc="3807890748" seo="true" ref="index">
+    <file name="ornament1_poster_.png" crc="3913124280" ref="index"/>
+    <file name="rightarrow.svg" crc="3877983299" seo="true" ref="index:pastslide2:pastslide3">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="pastslide2" alt=""/>
+      <caption webpage="pastslide3" alt=""/>
     </file>
-    <file name="div_2_poster_.png" crc="108189714" ref="index"/>
-    <file name="image_3.svg" crc="53053" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="rightarrow_poster_.png" crc="4138139937" ref="index"/>
+    <file name="c2chapbkg.png" crc="83893212" seo="true" ref="pastslide2">
+      <caption webpage="pastslide2" alt=""/>
     </file>
-    <file name="image_3_poster_.png" crc="242066769" ref="index"/>
-    <file name="gradient1.png" crc="153337191" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="c3chapbkg.png" crc="4032313780" seo="true" ref="pastslide3">
+      <caption webpage="pastslide3" alt=""/>
     </file>
-    <file name="image_2.svg" crc="4043267470" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="image_2_poster_.png" crc="301885575" ref="index"/>
-    <file name="image_4.svg" crc="3958746074" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="image_4_poster_.png" crc="3842670462" ref="index"/>
-    <file name="gradientarc.png" crc="265721190" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="home_1.svg" crc="3848613069" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="home_1_poster_.png" crc="3883872514" ref="index"/>
   </folder>
-  <file name="index.html" crc="292731801" seo="true" mt="1647372888822" redirect="true"/>
+  <file name="chapter-1.html" crc="4256111536" seo="true" mt="1649866927400" redirect="true"/>
+  <file name="chapter-2.html" crc="4249828189" seo="true" mt="1649867831603" redirect="true"/>
+  <file name="chapter-3.html" crc="4051910504" seo="true" mt="1649866530909" redirect="true"/>
+  <file name="index.html" crc="3861272554" seo="true" mt="1649867096399" redirect="true"/>
+  <file name="pastslide2.html" crc="215649887" seo="true" mt="1649867081658" redirect="true"/>
+  <file name="pastslide3.html" crc="4270993351" seo="true" mt="1649867063755" redirect="true"/>
 </manifest>
